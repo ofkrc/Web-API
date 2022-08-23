@@ -1,0 +1,1 @@
+{"CustomerEnvironment":[{"ID":1,"Name":"DEV","Description":"DEV açıklama","Status":1,"CustomerId": 1},{"ID":2,"Name":"QA","Description":"QA açıklama","Status":1},{"ID":3,"Name":"UAT","Description":"UAT açıklama","Status":1},{"ID":4,"Name":"PROD","Description":"PROD açıklama","Status":1}]}

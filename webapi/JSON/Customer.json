@@ -1,0 +1,52 @@
+{
+  "Customer": [
+    {
+      "ID": 1,
+      "CustomerName": "Natura",
+      "Description": "Natura Açıklama",
+      "Status": 1
+    },
+    {
+      "ID": 2,
+      "CustomerName": "KT&G",
+      "Description": "KT&G Açıklama",
+      "Status": 0
+    },
+    {
+      "ID": 3,
+      "CustomerName": "Pernod",
+      "Description": "Pernod Açıklama",
+      "Status": 0
+    },
+    {
+      "ID": 4,
+      "CustomerName": "Banvit",
+      "Description": "Banvit Açıklama",
+      "Status": 0
+    },
+    {
+      "ID": 5,
+      "CustomerName": "Tuborg",
+      "Description": "Tuborg Açıklama",
+      "Status": 0
+    },
+    {
+      "ID": 6,
+      "CustomerName": "Mutlu",
+      "Description": "Mutlu Açıklama",
+      "Status": 0
+    },
+    {
+      "ID": 7,
+      "CustomerName": "BAT",
+      "Description": "BAT Açıklama",
+      "Status": 0
+    },
+    {
+      "ID": 8,
+      "CustomerName": "Perfetti",
+      "Description": "Perfetti Açıklama",
+      "Status": 0
+    }
+  ]
+}
